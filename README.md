@@ -1,1 +1,1 @@
-Easy Tik Tac Toe game in JS
+Easy Tic Tac Toe game in JS
